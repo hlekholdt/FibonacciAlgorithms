@@ -4,7 +4,7 @@ import prog02.GUI;
 
 /**
  *
- * @author vjm
+ * @author hle
  */
 public class Main {
   /** Use this variable to store the result of each call to fib. */

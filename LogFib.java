@@ -2,7 +2,7 @@ package prog03;
 
 /**
  *
- * @author vjm
+ * @author hle
  */
 public class LogFib extends PowerFib {
     /** The order O() of the implementation.

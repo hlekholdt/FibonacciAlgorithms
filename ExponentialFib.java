@@ -2,7 +2,7 @@ package prog03;
 
 /**
  *
- * @author vjm
+ * @author hle
  */
 public class ExponentialFib extends PowerFib {
     /** The Fibonacci number generator 0, 1, 1, 2, 3, 5, ...
